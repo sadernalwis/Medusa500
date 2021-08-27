@@ -59,5 +59,14 @@ mkdir Trader
 nano "Trader/README.md"
 mkdir User
 nano "User/README.md"
-mkdir Xyztem
-nano "Xyztem/README.md"
+mkdir -p "SideChain/GitHub"
+nano "SideChain/README.md"
+nano "SideChain/GitHub/README.md"
+mkdir -p "SideChain/Ethereum"
+nano "SideChain/Ethereum/README.md"
+mkdir -p "SideChain/Bitcoin"
+nano "SideChain/Bitcoin/README.md"
+# ./Repository/init.sh
+git add .
+git commit -am "message: SideChains"
+git push origin
