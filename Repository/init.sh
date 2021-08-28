@@ -116,7 +116,10 @@ nano      "Alice/README.md"
 mkdir -p  "RabbitHole"
 nano      "RabbitHole/README.md"
 
+mkdir -p  "Mirror"
+nano      "Mirror/README.md"
+
 # ./Repository/init.sh
 git add .
-git commit -am "message: Alice, RabbitHole, EATME & DRINKME"
+git commit -am "message: Mirror On The Wall"
 git push origin
