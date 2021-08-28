@@ -121,5 +121,8 @@ nano      "Mirror/README.md"
 
 # ./Repository/init.sh
 git add .
-git commit -am "message: Mirror On The Wall"
+git commit -am "message: Dungeons & Dragons NFT"
 git push origin
+
+# cd DragonDrop
+# git submodule add https://github.com/PatrickAlphaC/dungeons-and-dragons-nft.git

@@ -1,0 +1,3 @@
+[submodule "DragonDrop/dungeons-and-dragons-nft"]
+	path = DragonDrop/dungeons-and-dragons-nft
+	url = https://github.com/PatrickAlphaC/dungeons-and-dragons-nft.git
