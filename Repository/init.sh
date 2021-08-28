@@ -37,17 +37,21 @@ mkdir -p Parseltongue/Jargon
 nano "Parseltongue/Jargon/README.md"
 mkdir Postgres
 nano "Postgres/README.md"
+
 mkdir -p Python/Token
 nano "Python/README.md"
 nano "Python/Token/README.md"
 mkdir -p Python/TPipe
 nano "Python/TPipe/README.md"
+mkdir -p Python/APipe
+nano "Python/APipe/README.md"
+
 mkdir Repository
 nano "Repository/README.md"
-mkdir Scalar
-nano "Scalar/README.md"
+
 mkdir Scroll
 nano "Scroll/README.md"
+
 mkdir -p TornadoExchange/Tornado
 mkdir -p TornadoExchange/Twitter
 mkdir -p TornadoExchange/Firenado
@@ -55,18 +59,50 @@ nano "TornadoExchange/README.md"
 nano "TornadoExchange/Tornado/README.md"
 nano "TornadoExchange/Twitter/README.md"
 nano "TornadoExchange/Firenado/README.md"
+
 mkdir Trader
 nano "Trader/README.md"
+
 mkdir User
 nano "User/README.md"
+
 mkdir -p "SideChain/GitHub"
-nano "SideChain/README.md"
-nano "SideChain/GitHub/README.md"
+nano     "SideChain/README.md"
+nano     "SideChain/GitHub/README.md"
 mkdir -p "SideChain/Ethereum"
-nano "SideChain/Ethereum/README.md"
+nano     "SideChain/Ethereum/README.md"
 mkdir -p "SideChain/Bitcoin"
-nano "SideChain/Bitcoin/README.md"
+nano     "SideChain/Bitcoin/README.md"
+
+mkdir -p  "Coin/Tesla"
+nano      "Coin/README.md"
+nano      "Coin/Tesla/README.md"
+mkdir -p  "Coin/Ethereum"
+nano      "Coin/Ethereum/README.md"
+mkdir -p  "Coin/Bitcoin"
+nano      "Coin/Bitcoin/README.md"
+
+mkdir -p  "Land/Tesla"
+nano      "Land/README.md"
+nano      "Land/Tesla/README.md"
+mkdir -p  "Land/Ethereum"
+nano      "Land/Ethereum/README.md"
+mkdir -p  "Land/Bitcoin"
+nano      "Land/Bitcoin/README.md"
+
+mkdir -p  "Space/SuperSpace"
+nano      "Space/README.md"
+nano      "Space/SuperSpace/README.md"
+mkdir -p  "Space/SubSpace"
+nano      "Space/SubSpace/README.md"
+mkdir -p  "Space/Scalar"
+nano      "Space/Scalar/README.md"
+
+mkdir -p  "DragonDrop/Dragons"
+nano      "DragonDrop/README.md"
+nano      "DragonDrop/Dragons/README.md"
+
 # ./Repository/init.sh
 git add .
-git commit -am "message: SideChains"
+git commit -am "message: Space, APipe, Coins, Land & DragonDrop"
 git push origin
