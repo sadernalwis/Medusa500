@@ -92,17 +92,31 @@ nano      "Land/Bitcoin/README.md"
 
 mkdir -p  "Space/SuperSpace"
 nano      "Space/README.md"
+nano      "Space/EATME.md"
+nano      "Space/DRINKME.md"
 nano      "Space/SuperSpace/README.md"
+nano      "Space/SuperSpace/EATME.md"
+nano      "Space/SuperSpace/DRINKME.md"
 mkdir -p  "Space/SubSpace"
 nano      "Space/SubSpace/README.md"
+nano      "Space/SubSpace/EATME.md"
+nano      "Space/SubSpace/DRINKME.md"
 mkdir -p  "Space/Scalar"
 nano      "Space/Scalar/README.md"
+nano      "Space/Scalar/EATME.md"
+nano      "Space/Scalar/DRINKME.md"
 
 mkdir -p  "DragonDrop/Dragons"
 nano      "DragonDrop/README.md"
 nano      "DragonDrop/Dragons/README.md"
 
+mkdir -p  "Alice"
+nano      "Alice/README.md"
+
+mkdir -p  "RabbitHole"
+nano      "RabbitHole/README.md"
+
 # ./Repository/init.sh
 git add .
-git commit -am "message: Space, APipe, Coins, Land & DragonDrop"
+git commit -am "message: Alice, RabbitHole, EATME & DRINKME"
 git push origin
