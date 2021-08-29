@@ -117,11 +117,51 @@ mkdir -p  "RabbitHole"
 nano      "RabbitHole/README.md"
 
 mkdir -p  "Mirror"
+mkdir -p  "Mirror/LookUp/Table"
+mkdir -p  "Mirror/LookUp/Index"
+mkdir -p  "Mirror/LookUp/Name"
+mkdir -p  "Mirror/LookUp/Class"
+mkdir -p  "Mirror/LookUp/Color"
+mkdir -p  "Mirror/LookUp/Position"
+mkdir -p  "Mirror/LookUp/Word"
+
 nano      "Mirror/README.md"
+nano                 "Mirror/LookUp/Table/README.md"
+nano                 "Mirror/LookUp/Index/README.md"
+nano                  "Mirror/LookUp/Name/README.md"
+nano                 "Mirror/LookUp/Class/README.md"
+nano                 "Mirror/LookUp/Color/README.md"
+nano              "Mirror/LookUp/Position/README.md"
+nano                  "Mirror/LookUp/Word/README.md"
+         
+nano                 "Mirror/LookUp/Table/LOOKUP.md"
+nano                 "Mirror/LookUp/Index/LOOKUP.md"
+nano                  "Mirror/LookUp/Name/LOOKUP.md"
+nano                 "Mirror/LookUp/Class/LOOKUP.md"
+nano                 "Mirror/LookUp/Color/LOOKUP.md"
+nano              "Mirror/LookUp/Position/LOOKUP.md"
+nano                  "Mirror/LookUp/Word/LOOKUP.md"
+
+nano              "Mirror/WriteDown/Table/README.md"
+nano              "Mirror/WriteDown/Index/README.md"
+nano               "Mirror/WriteDown/Name/README.md"
+nano              "Mirror/WriteDown/Class/README.md"
+nano              "Mirror/WriteDown/Color/README.md"
+nano           "Mirror/WriteDown/Position/README.md"
+nano               "Mirror/WriteDown/Word/README.md"
+
+nano           "Mirror/WriteDown/Table/WRITEDOWN.md"
+nano           "Mirror/WriteDown/Index/WRITEDOWN.md"
+nano            "Mirror/WriteDown/Name/WRITEDOWN.md"
+nano           "Mirror/WriteDown/Class/WRITEDOWN.md"
+nano           "Mirror/WriteDown/Color/WRITEDOWN.md"
+nano        "Mirror/WriteDown/Position/WRITEDOWN.md"
+nano            "Mirror/WriteDown/Word/WRITEDOWN.md"
+
 
 # ./Repository/init.sh
 git add .
-git commit -am "message: Dungeons & Dragons NFT"
+git commit -am "message: Mirror MDs"
 git push origin
 
 # cd DragonDrop
