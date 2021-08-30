@@ -21,7 +21,7 @@
 | Ethereum | <code>MadTesla NFT</code> | Levels |
 | GitHub | <code>Watches, Stars, Sponsors, Achievements, Organizations</code> | Levels |
 | StackOverflow | <code>Badges, Privileges, Votes, Bounties </code> | Levels |
-| BlenderID |<code>invitation</code> | SnakePit |
+| BlenderID |<code>Invitation</code> | SnakePit |
 ## Magnetar 
 ### 1T per line across all branches and forks. * page depth
 ### 1FF per artwork. * page depth

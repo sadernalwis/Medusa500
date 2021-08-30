@@ -169,7 +169,7 @@ nano            "Mirror/WriteDown/Word/WRITEDOWN.md"
 
 # ./Repository/init.sh
 git add .
-git commit -am "message: Mirror MDs"
+git commit -am "message: SnakePit"
 git push origin
 
 # cd DragonDrop
