@@ -21,6 +21,7 @@
 | Ethereum | <code>MadTesla NFT</code> | Levels |
 | GitHub | <code>Watches, Stars, Sponsors, Achievements, Organizations</code> | Levels |
 | StackOverflow | <code>Badges, Privileges, Votes, Bounties </code> | Levels |
+| BlenderID | | Levels |
 ## Magnetar 
 ### 1T per line across all branches and forks.
 ### 1FF per artwork.
