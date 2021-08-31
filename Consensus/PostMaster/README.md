@@ -1,6 +1,6 @@
 # PostMaster
-ht
-![alt text](https://github.com/dirof/Medusa500/blob/main/Consensus/PostMaster/Cabin/Cabin.jpg?raw=true)
+
+![PostMaster's Cabin](https://github.com/dirof/Medusa500/blob/main/Consensus/PostMaster/Cabin/Cabin.jpg?raw=true)
 
 ## PostMaster Consensus
 
