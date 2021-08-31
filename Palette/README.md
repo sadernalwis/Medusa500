@@ -1,1 +1,1 @@
-# Pallettes
+# Palettes
