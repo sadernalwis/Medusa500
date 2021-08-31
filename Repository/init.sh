@@ -173,10 +173,13 @@ nano      "Palette/Color/README.md"
 mkdir -p  "Palette/Pattern"
 nano      "Palette/Pattern/README.md"
 
+mkdir -p  "Consensus/PostMaster"
+nano      "Consensus/PostMaster/README.md"
+
 
 # ./Repository/init.sh
 git add .
-git commit -am "message: Pallettes"
+git commit -am "message: PostMaster"
 git push origin
 
 # cd DragonDrop
