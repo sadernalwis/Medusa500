@@ -26,8 +26,10 @@ nano "OwlTree/Owls/README.md"
 mkdir -p OwlTree/Tree
 nano "OwlTree/Tree/README.md"
 nano "OwlTree/Tree/Graph Theory.md"
-mkdir Pallette
-nano "Pallette/README.md"
+
+mkdir Palette
+nano "Palette/README.md"
+
 mkdir -p Parseltongue/Cursor 
 nano "Parseltongue/README.md"
 nano "Parseltongue/Cursor/README.md"
@@ -166,10 +168,15 @@ nano           "Mirror/WriteDown/Color/WRITEDOWN.md"
 nano        "Mirror/WriteDown/Position/WRITEDOWN.md"
 nano            "Mirror/WriteDown/Word/WRITEDOWN.md"
 
+mkdir -p  "Palette/Color"
+nano      "Palette/Color/README.md"
+mkdir -p  "Palette/Pattern"
+nano      "Palette/Pattern/README.md"
+
 
 # ./Repository/init.sh
 git add .
-git commit -am "message: SnakePit"
+git commit -am "message: Pallettes"
 git push origin
 
 # cd DragonDrop
