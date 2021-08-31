@@ -8,6 +8,7 @@
 |                  username| = | annonymous |  null |  
 |                  password| = | PUBLIC |  null |  
 |                     level| = | l1 |  null |  
+|                      belt| = | public |  null |  
 |                    jargon| = | human |  null |  
 |                    domain| = | https://medusa500.xyz |  null |  
 |                    source| = | dynamic ip |  null |  
