@@ -1,1 +1,1 @@
-#  <code> Quantum Intelligence </code>
+#  <code> Quantum intelligence </code>
