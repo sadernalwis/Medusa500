@@ -1,6 +1,6 @@
 # Tesla Coin
 
-### Coins for A Player Built Cross-Chain Economy.
+### Coins for A Player-Built Cross-Chain Economy.
 ###  <code> 15 Teslas</code> ⇒ <code> 1 Flying Frog</code>
 
 
