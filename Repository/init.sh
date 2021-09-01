@@ -179,11 +179,16 @@ nano      "Consensus/PostMaster/README.md"
 mkdir -p  "Levels"
 nano      "Levels/README.md"
 
+mkdir -p  "Qi"
+nano      "Qi/README.md"
+
+
 #Add an image: ![Description](https://github.com/username/directory/imagename.jpg?raw=true)
 
 # ./Repository/init.sh
+git pull origin
 git add .
-git commit -am "message: Uploading Image Instructions"
+git commit -am "message: Qi"
 git push origin
 
 # cd DragonDrop
