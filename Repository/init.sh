@@ -3,8 +3,16 @@ mkdir Belt
 nano "Belt/README.md"
 mkdir Bit
 nano "Bit/README.md"
+
 mkdir Calendar
 nano "Calendar/README.md"
+mkdir -p Calendar/Sun
+nano "Calendar/Sun/README.md"
+mkdir -p Calendar/Moon
+nano "Calendar/Moon/README.md"
+mkdir -p Calendar/Earth
+nano "Calendar/Earth/README.md"
+
 mkdir Consensus
 nano "Consensus/README.md"
 mkdir Document
@@ -188,7 +196,7 @@ nano      "Qi/README.md"
 # ./Repository/init.sh
 git pull origin
 git add .
-git commit -am "message: Qi"
+git commit -am "message: Sun, Moon & Earth"
 git push origin
 
 # cd DragonDrop
