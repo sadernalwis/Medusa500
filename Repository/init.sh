@@ -200,7 +200,7 @@ nano      "Qi/Developer/README.md"
 # ./Repository/init.sh
 git pull origin
 git add .
-git commit -am "message: Designer vs Developer"
+git commit -am "message: KeyMaker, Chateau"
 git push origin
 
 # cd DragonDrop
