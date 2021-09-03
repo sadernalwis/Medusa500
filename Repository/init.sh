@@ -189,6 +189,10 @@ nano      "Levels/README.md"
 
 mkdir -p  "Qi"
 nano      "Qi/README.md"
+mkdir -p  "Qi/Designer"
+nano      "Qi/Designer/README.md"
+mkdir -p  "Qi/Developer"
+nano      "Qi/Developer/README.md"
 
 
 #Add an image: ![Description](https://github.com/username/directory/imagename.jpg?raw=true)
@@ -196,7 +200,7 @@ nano      "Qi/README.md"
 # ./Repository/init.sh
 git pull origin
 git add .
-git commit -am "message: Sun, Moon & Earth"
+git commit -am "message: Designer vs Developer"
 git push origin
 
 # cd DragonDrop
