@@ -1,5 +1,9 @@
 ## PoseMaster Example
 
+https://user-images.githubusercontent.com/44372160/219147276-6c33b698-9b6d-4d2b-8f95-76ae64b0a4fe.mp4
+
+
+
 ```
 jargon studio animation
 
