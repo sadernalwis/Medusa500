@@ -9,6 +9,11 @@ https://user-images.githubusercontent.com/44372160/219148209-e9e14cc1-722b-4244-
 # SETTING PARSELTONGUE CONTEXT
 jargon studio animation
 
+# SETTING-UP SCENE
+import character princess from princess in princess as princess
+import object lights from princess in lights as studio lights
+import object camera from zoom camera in camera as camera
+
 # STARTING POSE (walk base)
 posemaster princess
 princess left thigh turn right side 10deg mirror, flip
