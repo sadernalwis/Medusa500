@@ -95,3 +95,11 @@ princess write pose
 
 princess stash action repeat 8x as legs walk
 ```
+## PoseMaster Advanced Clenching Fingers Example
+
+
+```
+princess turned her left thigh to right by 10 degrees mirrored
+left upperarm right 80% mirror opposite, right lowerarm up 20 mirror 100%,
+left index 01 down 400% ,mirror, flip 02 up 90deg mirror
+```
